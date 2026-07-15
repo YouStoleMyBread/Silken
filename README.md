@@ -1,5 +1,7 @@
 # Silken
 
+<img src="https://github.com/YouStoleMyBread/Silken/blob/main/ProjectImages/Silken.png">
+
 > A modern visual IDE for interactive fiction and large branching stories.
 
 Silken is a private, early-stage project focused on making large Twine-style stories easier to create, organize, edit, test, import, and export.
