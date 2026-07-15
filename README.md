@@ -30,6 +30,25 @@ A real SugarCube story containing roughly **2,000 passages** has been imported s
 
 This is encouraging, but performance testing is still ongoing and should not yet be treated as a final benchmark.
 
+Current Development Benchmarks
+
+1,000 passages
+Index build: 1.32 ms
+
+5,000 passages
+Index build: 1.95 ms
+
+10,000 passages
+Index build: 2.89 ms
+
+20,000 passages
+Index build: 7.69 ms
+
+Viewport queries
+250 queries on a 20,000-passage project
+17.11 ms total
+0.068 ms average per query
+
 ---
 
 <img src="https://github.com/YouStoleMyBread/Silken/blob/main/ProjectImages/Screenshot%202026-07-14%20231217.png">
