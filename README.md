@@ -32,6 +32,8 @@ This is encouraging, but performance testing is still ongoing and should not yet
 
 ---
 
+<img src="https://github.com/YouStoleMyBread/Silken/blob/main/ProjectImages/Screenshot%202026-07-14%20231217.png">
+
 ## Current Features
 
 ### Story Format Support
@@ -97,6 +99,8 @@ Panels are intended to provide non-collapsible visual grouping without forcing p
 - Custom Silken branding and application icon
 
 ---
+
+<img src="https://github.com/YouStoleMyBread/Silken/blob/main/ProjectImages/Screenshot%202026-07-14%20231548.png">
 
 ## Planned Core Systems
 
@@ -217,6 +221,8 @@ Selecting a diagnostic result should filter or highlight the related passages di
 
 ---
 
+<img src="https://github.com/YouStoleMyBread/Silken/blob/main/ProjectImages/Screenshot%202026-07-14%20231847.png">
+
 ## Known Bugs and Limitations
 
 - Connection lines may still require further refinement in dense stories
@@ -276,6 +282,8 @@ Performance work will focus on:
 - Keeping the full graph in lightweight application data rather than relying on rendered elements
 
 ---
+
+<img src="https://github.com/YouStoleMyBread/Silken/blob/main/ProjectImages/Screenshot%202026-07-14%20232041.png">
 
 ## Development Priorities
 
